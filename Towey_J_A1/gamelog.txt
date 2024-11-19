@@ -1,0 +1,1075 @@
+Starting Mario Game
+c k g b k 
+c k m k m 
+x g x k m 
+c k c m m 
+k g g g w 
+---------
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:1
+c k g b H 
+c k m k m 
+x g x k m 
+c k c m m 
+k g g g w 
+---------
+Fought koopa and lost
+Coins:0
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:5
+Power Level:0
+Current Level:1
+c k g b k 
+c k m k H 
+x g x k m 
+c k c m m 
+k g g g w 
+---------
+Collected Mushroom
+Coins:0
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:5
+Power Level:1
+Current Level:1
+c k g b H 
+c k m k x 
+x g x k m 
+c k c m m 
+k g g g w 
+---------
+Fought koopa and lost
+Coins:0
+Lives:2
+Mario will move UP
+
+Current row:5 Current column:5
+Power Level:0
+Current Level:1
+c k g b k 
+c k m k x 
+x g x k m 
+c k c m m 
+k g g g H 
+---------
+Landed on warp pipe
+Coins:0
+Lives:2
+
+c c c c c 
+g x g x w 
+m x x k k 
+g g g g g 
+k k m c b 
+---------
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:2
+c c c c H 
+g x g x w 
+m x x k k 
+g g g g g 
+k k m c b 
+---------
+Collected coin
+Coins:1
+Lives:3
+Mario will move RIGHT
+
+Current row:1 Current column:1
+Power Level:0
+Current Level:2
+H c c c x 
+g x g x w 
+m x x k k 
+g g g g g 
+k k m c b 
+---------
+Collected coin
+Coins:2
+Lives:3
+Mario will move LEFT
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:2
+x c c c H 
+g x g x w 
+m x x k k 
+g g g g g 
+k k m c b 
+---------
+Landed on empty square 
+Coins:2
+Lives:3
+Mario will move DOWN
+
+Current row:2 Current column:5
+Power Level:0
+Current Level:2
+x c c c x 
+g x g x H 
+m x x k k 
+g g g g g 
+k k m c b 
+---------
+Landed on warp pipe
+Coins:2
+Lives:3
+
+k b c x c 
+w m c x x 
+x m k m m 
+x m g m m 
+k x g k k 
+---------
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:3
+k b c x H 
+w m c x x 
+x m k m m 
+x m g m m 
+k x g k k 
+---------
+Collected coin
+Coins:1
+Lives:3
+Mario will move DOWN
+
+Current row:2 Current column:5
+Power Level:0
+Current Level:3
+k b c x x 
+w m c x H 
+x m k m m 
+x m g m m 
+k x g k k 
+---------
+Landed on empty square 
+Coins:1
+Lives:3
+Mario will move RIGHT
+
+Current row:2 Current column:1
+Power Level:0
+Current Level:3
+k b c x x 
+H m c x x 
+x m k m m 
+x m g m m 
+k x g k k 
+---------
+Landed on warp pipe
+Coins:1
+Lives:3
+
+m x x c c 
+m m x g x 
+x g x g c 
+b k m m x 
+x c c k c 
+---------
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:4
+m x x c H 
+m m x g x 
+x g x g c 
+b k m m x 
+x c c k c 
+---------
+Collected coin
+Coins:1
+Lives:3
+Mario will move LEFT
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c c k c 
+---------
+Collected coin
+Coins:2
+Lives:3
+Mario will move LEFT
+
+Current row:1 Current column:3
+Power Level:0
+Current Level:4
+m x H x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c c k c 
+---------
+Landed on empty square 
+Coins:2
+Lives:3
+Mario will move UP
+
+Current row:5 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c H k c 
+---------
+Collected coin
+Coins:3
+Lives:3
+Mario will move RIGHT
+
+Current row:5 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x H c 
+---------
+Fought koopa and lost
+Coins:3
+Lives:2
+Mario will move RIGHT
+
+Current row:5 Current column:5
+Power Level:0
+Current Level:4
+m x x x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x k H 
+---------
+Collected coin
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:1 Current column:5
+Power Level:0
+Current Level:4
+m x x x H 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x k x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:5 Current column:5
+Power Level:0
+Current Level:4
+m x x x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x k H 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move LEFT
+
+Current row:5 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x H x 
+---------
+Fought koopa and won
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x g x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x H x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Fought goomba and won
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x H x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move LEFT
+
+Current row:2 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m H x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:3
+Power Level:0
+Current Level:4
+m x H x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m H x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:3
+Power Level:0
+Current Level:4
+m x H x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move LEFT
+
+Current row:1 Current column:3
+Power Level:0
+Current Level:4
+m x H x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:5 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x H x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move LEFT
+
+Current row:5 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c H x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:1 Current column:3
+Power Level:0
+Current Level:4
+m x H x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m H x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move DOWN
+
+Current row:3 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g H g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:2 Current column:3
+Power Level:0
+Current Level:4
+m x x x x 
+m m H x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x H x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:4
+Power Level:0
+Current Level:4
+m x x H x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move UP
+
+Current row:5 Current column:4
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x H x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:5 Current column:5
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x c x x H 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:5 Current column:1
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+H c x x x 
+---------
+Landed on empty square 
+Coins:4
+Lives:2
+Mario will move RIGHT
+
+Current row:5 Current column:2
+Power Level:0
+Current Level:4
+m x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x H x x x 
+---------
+Collected coin
+Coins:5
+Lives:2
+Mario will move DOWN
+
+Current row:1 Current column:2
+Power Level:0
+Current Level:4
+m H x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:5
+Lives:2
+Mario will move LEFT
+
+Current row:1 Current column:1
+Power Level:0
+Current Level:4
+H x x x x 
+m m x x x 
+x g x g c 
+b k m m x 
+x x x x x 
+---------
+Collected Mushroom
+Coins:5
+Lives:2
+Mario will move LEFT
+
+Current row:1 Current column:5
+Power Level:1
+Current Level:4
+x x x x H 
+m m x x x 
+x g x g c 
+b k m m x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:5
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+m m x x H 
+x g x g c 
+b k m m x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:5
+Lives:2
+Mario will move LEFT
+
+Current row:2 Current column:4
+Power Level:1
+Current Level:4
+x x x x x 
+m m x H x 
+x g x g c 
+b k m m x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:5
+Lives:2
+Mario will move DOWN
+
+Current row:3 Current column:4
+Power Level:1
+Current Level:4
+x x x x x 
+m m x x x 
+x g x H c 
+b k m m x 
+x x x x x 
+---------
+Fought goomba and lost
+Coins:5
+Lives:2
+Mario will move DOWN
+
+Current row:4 Current column:4
+Power Level:0
+Current Level:4
+x x x x x 
+m m x x x 
+x g x g c 
+b k m H x 
+x x x x x 
+---------
+Collected Mushroom
+Coins:5
+Lives:2
+Mario will move RIGHT
+
+Current row:4 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+m m x x x 
+x g x g c 
+b k m x H 
+x x x x x 
+---------
+Landed on empty square 
+Coins:5
+Lives:2
+Mario will move UP
+
+Current row:3 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+m m x x x 
+x g x g H 
+b k m x x 
+x x x x x 
+---------
+Collected coin
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:3 Current column:1
+Power Level:1
+Current Level:4
+x x x x x 
+m m x x x 
+H g x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move UP
+
+Current row:2 Current column:1
+Power Level:1
+Current Level:4
+x x x x x 
+H m x x x 
+x g x g x 
+b k m x x 
+x x x x x 
+---------
+Collected Mushroom
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:2
+Power Level:2
+Current Level:4
+x x x x x 
+x H x x x 
+x g x g x 
+b k m x x 
+x x x x x 
+---------
+Collected Mushroom
+Coins:6
+Lives:2
+Mario will move LEFT
+
+Current row:2 Current column:1
+Power Level:2
+Current Level:4
+x x x x x 
+H x x x x 
+x g x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move DOWN
+
+Current row:3 Current column:1
+Power Level:2
+Current Level:4
+x x x x x 
+x x x x x 
+H g x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:3 Current column:2
+Power Level:2
+Current Level:4
+x x x x x 
+x x x x x 
+x H x g x 
+b k m x x 
+x x x x x 
+---------
+Fought goomba and won
+Coins:6
+Lives:2
+Mario will move UP
+
+Current row:2 Current column:2
+Power Level:2
+Current Level:4
+x x x x x 
+x H x x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move LEFT
+
+Current row:2 Current column:1
+Power Level:2
+Current Level:4
+x x x x x 
+H x x x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:2
+Power Level:2
+Current Level:4
+x x x x x 
+x H x x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:3
+Power Level:2
+Current Level:4
+x x x x x 
+x x H x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move LEFT
+
+Current row:2 Current column:2
+Power Level:2
+Current Level:4
+x x x x x 
+x H x x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:3
+Power Level:2
+Current Level:4
+x x x x x 
+x x H x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:4
+Power Level:2
+Current Level:4
+x x x x x 
+x x x H x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move UP
+
+Current row:1 Current column:4
+Power Level:2
+Current Level:4
+x x x H x 
+x x x x x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move DOWN
+
+Current row:2 Current column:4
+Power Level:2
+Current Level:4
+x x x x x 
+x x x H x 
+x x x g x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move DOWN
+
+Current row:3 Current column:4
+Power Level:2
+Current Level:4
+x x x x x 
+x x x x x 
+x x x H x 
+b k m x x 
+x x x x x 
+---------
+Fought goomba and lost
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:3 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x x 
+x x x g H 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move LEFT
+
+Current row:3 Current column:4
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x x 
+x x x H x 
+b k m x x 
+x x x x x 
+---------
+Fought goomba and won
+Coins:6
+Lives:2
+Mario will move UP
+
+Current row:2 Current column:4
+Power Level:1
+Current Level:4
+x x x x x 
+x x x H x 
+x x x x x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:2 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x H 
+x x x x x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move DOWN
+
+Current row:3 Current column:5
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x x 
+x x x x H 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move RIGHT
+
+Current row:3 Current column:1
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x x 
+H x x x x 
+b k m x x 
+x x x x x 
+---------
+Landed on empty square 
+Coins:6
+Lives:2
+Mario will move DOWN
+
+Current row:4 Current column:1
+Power Level:1
+Current Level:4
+x x x x x 
+x x x x x 
+x x x x x 
+H k m x x 
+x x x x x 
+---------
+Fought boss and won
+Coins:6
+Lives:2
+Mario Won in 72 moves.
